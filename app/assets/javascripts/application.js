@@ -11,4 +11,6 @@
 // GO AFTER THE REQUIRES BELOW.
 //
 //= require extjs-rails
-//= require_tree .
+//= require example-data.js
+//= require examples.js
+//= require Charts
